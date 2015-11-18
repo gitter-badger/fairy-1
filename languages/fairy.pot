@@ -1,0 +1,295 @@
+# Translation of Fairy
+# This file is distributed under the GNU General Public License.
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Project-Id-Version: Fairy 1.0.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#. Theme Name of the plugin/theme
+msgid "Fairy"
+msgstr "Fairy"
+
+#. Author of the plugin/theme
+msgid "Ibnu Sina"
+msgstr "Ibnu Sina"
+
+#. Description of the plugin/theme
+msgid "Default theme is clean, blog-focused, and designed for clarity. Fairy simple, straightforward typography is readable on a wide variety of screen sizes, and suitable for multiple languages. We designed it using a mobile-first approach, meaning your content takes center-stage, regardless of whether your visitors arrive by smartphone, tablet, laptop, or desktop computer."
+msgstr ""
+"Tema bawaan kami rapi, berorientasi blog, dan dirancang untuk kejelasan. Tipografi Fairy yang sederhana dan tegas mudah dibaca pada berbagai ukuran layar, dan cocok untuk berbagai bahasa. Kami merancangnya dengan pendekatan mobile-utama, artinya konten Anda berada di area tengah dari manapun pengunjung mengaksesnya baik ponsel pintar, tablet, laptop, maupun komputer meja."
+
+#: 404.php
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Halaman tersebut tidak ditemukan."
+
+#: 404.php
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Sepertinya tidak ditemukan apapun disini. Mungkin coba pencarian?"
+
+#: archive.php index.php search.php
+msgid "Previous page"
+msgstr "Halaman sebelumnya"
+
+#: archive.php index.php search.php
+msgid "Next page"
+msgstr "Halaman selanjutnya"
+
+#: archive.php content-link.php content-page.php content.php image.php index.php search.php
+msgid "Page"
+msgstr "Halaman"
+
+#: author-bio.php
+msgid "Published by"
+msgstr "Diterbitkan oleh"
+
+#: author-bio.php
+msgid "View all posts by %s"
+msgstr "Tampilkan semua pos oleh %s"
+
+#: comments.php
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Satu tanggapan untuk &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s tanggapan untuk &ldquo;%2$s&rdquo;"
+
+#: comments.php
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#. translators: %s: Name of current post
+#: content-link.php content.php inc/template-tags.php
+msgid "Continue reading %s"
+msgstr "Lanjutkan membaca %s"
+
+#: content-link.php content-page.php content.php image.php
+msgid "Pages:"
+msgstr "Halaman:"
+
+#: content-link.php content-page.php content-search.php content.php image.php
+msgid "Edit"
+msgstr "Sunting"
+
+#: content-none.php
+msgid "Nothing Found"
+msgstr "Tidak Ditemukan"
+
+#: content-none.php
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Siap untuk mempublikasikan pos pertama Anda? <a href=\"%1$s\">Mulai disini</a>."
+
+#: content-none.php
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tidak ada yang cocok dengan istilah pencarian Anda. Silakan coba lagi dengan kata kunci yang berbeda."
+
+#: content-none.php
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Tampaknya kita tidak dapat menemukan apa yang Anda cari. Mungkin pencarian bisa membantu."
+
+#: footer.php
+msgid "Powered by %s"
+msgstr "Ditenagai oleh %s"
+
+#: functions.php
+msgid "Primary Menu"
+msgstr "Menu Utama"
+
+#: functions.php
+msgid "Social Links Menu"
+msgstr "Link Media Sosial"
+
+#: functions.php
+msgid "Widget Area"
+msgstr "Area Widget"
+
+#: functions.php
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Tambahkan widget ke sini agar ditampilkan pada bilah sisi."
+
+#. Translators: If there are characters in your language that are not supported
+#. by Noto Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php
+msgctxt "Noto Sans font: on or off"
+msgid "on"
+msgstr "hidup"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Noto Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php
+msgctxt "Noto Serif font: on or off"
+msgid "on"
+msgstr "hidup"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "hidup"
+
+#. Translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: functions.php
+msgid "expand child menu"
+msgstr "buka menu anak"
+
+#: functions.php
+msgid "collapse child menu"
+msgstr "tutup menu anak"
+
+#: header.php
+msgid "Skip to content"
+msgstr "Loncat ke konten"
+
+#: header.php
+msgid "Menu and widgets"
+msgstr "Menu dan widget"
+
+#: image.php
+msgid "Previous Image"
+msgstr "Gambar sebelumnya"
+
+#: image.php
+msgid "Next Image"
+msgstr "Gambar Selanjutnya"
+
+#: image.php
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Diterbitkan dalam</span><span class=\"post-title\">%title</span>"
+
+#: inc/back-compat.php
+msgid "Fairy requires at least Blasdoise version 1.0. You are running version %s. Please upgrade and try again."
+msgstr "Fairy membutuhkan setidaknya Blasdoise versi 1.0. Anda menjalankan versi %s. Silakan perbarui dan coba lagi."
+
+#: inc/customizer.php
+msgid "Base Color Scheme"
+msgstr "Skema Warna Dasar"
+
+#: inc/customizer.php
+msgid "Header and Sidebar Text Color"
+msgstr "Warna Teks Kepala Halaman dan Bilah Sisi"
+
+#: inc/customizer.php
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr "Diterapkan ke kepala halaman pada layar kecil dan bilah sisi pada layar lebar."
+
+#: inc/customizer.php
+msgid "Header and Sidebar Background Color"
+msgstr "Warna Latar Kepala Halaman dan Bilah Sisi"
+
+#: inc/customizer.php
+msgid "Default"
+msgstr "Bawaan"
+
+#: inc/customizer.php
+msgid "Dark"
+msgstr "Gelap"
+
+#: inc/customizer.php
+msgid "Yellow"
+msgstr "Kuning"
+
+#: inc/customizer.php
+msgid "Pink"
+msgstr "Merah Muda"
+
+#: inc/customizer.php
+msgid "Purple"
+msgstr "Ungu"
+
+#: inc/customizer.php
+msgid "Blue"
+msgstr "Biru"
+
+#: inc/template-tags.php
+msgid "Comment navigation"
+msgstr "Navigasi komentar"
+
+#: inc/template-tags.php
+msgid "Older Comments"
+msgstr "Komentar Terlama"
+
+#: inc/template-tags.php
+msgid "Newer Comments"
+msgstr "Komentar Terbaru"
+
+#: inc/template-tags.php
+msgid "Featured"
+msgstr "Unggulan"
+
+#: inc/template-tags.php
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "Format"
+
+#: inc/template-tags.php
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Diposkan pada"
+
+#: inc/template-tags.php
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Penulis"
+
+#: inc/template-tags.php
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Kategori"
+
+#: inc/template-tags.php
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Tag"
+
+#: inc/template-tags.php
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Ukuran penuh"
+
+#. translators: %s: post title
+#: inc/template-tags.php
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Tinggalkan komentar<span class=\"screen-reader-text\"> pada %s</span>"
+
+#: search.php
+msgid "Search Results for: %s"
+msgstr "Hasil pencarian untuk: %s"
+
+#: single.php
+msgid "Next"
+msgstr "Selanjutnya"
+
+#: single.php
+msgid "Next post:"
+msgstr "Pos selanjutnya:"
+
+#: single.php
+msgid "Previous"
+msgstr "Sebelumnya"
+
+#: single.php
+msgid "Previous post:"
+msgstr "Pos sebelumnya:"
